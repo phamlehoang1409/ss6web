@@ -1,37 +1,81 @@
-body {
-    font-family: Arial, sans-serif;
-    align-items: center;
-    background-color: white;
-}
-.container {
+.d1{
+    background-color: #babdc1;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius:  0px; 
+    width: 310px;
+}    
+.d2{
     background: white;
     padding: 20px;
     border-radius: 10px;
-    width: 300px;
+    width: 250px;
+}
+.size{
+    margin: 0 auto;
+    font-size: 10px;
     text-align: center;
 }
-h2 {
-  text-align: center;
+.ten{
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;        
+    border-radius: 4px;
 }
-label {
+button{
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    background-color: rgb(81, 123, 239);
+    border-radius: 3px;
     display: block;
-    text-align: left;
+    margin: 0 auto;
 }
-input {
-    width: 100%;
+.d1, .d2 {
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.d1{
+    background-color: #babdc1;
+    border: 2px solid white;
     padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  
+    border-radius:  0px; 
+    width: 310px;
+}    
+.d2{
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
 }
-button {
-    width: 100%;
-    padding: 10px;
-    background: blue;
-    color: white;
-    border-radius: 5px;
-    font-size: 16px;
+.size{
+    margin: 0 auto;
+    font-size: 10px;
+    text-align: center;
 }
-button:hover {
-    background: #0056b3;
+.ten{
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;        
+    border-radius: 4px;
+}
+button{
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    background-color: rgb(81, 123, 239);
+    border-radius: 3px;
+    border-width: thin;
+    display: block;
+    margin: 0 auto;
+}
+.d1, .d2 {
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
 }
